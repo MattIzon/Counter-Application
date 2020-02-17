@@ -35,3 +35,5 @@ public class CounterApplication {
         System.out.println("Goodbye");
     }
 }
+
+// This was edited by Matt
